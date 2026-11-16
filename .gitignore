@@ -1,0 +1,12 @@
+.DS_Store
+
+# CMake and Pico SDK build output
+/build*/
+**/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Generated ARM64 shellcode build intermediates
+/t8030_shellcode/build/

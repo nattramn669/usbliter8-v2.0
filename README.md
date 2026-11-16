@@ -4,7 +4,7 @@
 
 This fork adds an iPad 9-specific T8030 shellcode profile, selected for
 `CPID 0x8030` with `BDID 0x18` (Wi-Fi) or `0x1a` (Cellular). Other T8030 boards
-retain the upstream shellcode; the A12/T8020 and A11/T8006 paths remain unchanged. Startup prints
+retain the upstream shellcode; the A12/T8020 and S4-S5/T8006 paths remain unchanged. Startup prints
 `patched with love & hate by @nattramn669`. See [IPAD9-PROFILE.md](IPAD9-PROFILE.md) for the
 patch list, provenance, and build notes.
 

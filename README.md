@@ -1,6 +1,6 @@
 [Original Page](https://github.com/prdgmshift/usbliter8)
 
-# Source fork v2.0
+# usbliter8 v2.0
 
 This fork adds an iPad 9-specific T8030 shellcode profile, selected for
 `CPID 0x8030` with `BDID 0x18` (Wi-Fi) or `0x1a` (Cellular). Other T8030 boards
